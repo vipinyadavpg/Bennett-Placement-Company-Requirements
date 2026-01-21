@@ -1,9 +1,5 @@
 # Bennett-Placement-Company-Requirements
 
-## **Scaler**(NA)
-
-### **DevOps**(NA)
-
 1. **Operating Systems and Networking:**
    - Linux fundamentals  
    - Computer networking  
