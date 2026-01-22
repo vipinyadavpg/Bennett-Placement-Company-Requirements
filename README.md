@@ -310,3 +310,13 @@
 
 1. **Backend Libraries**
    - Python
+
+---
+
+### **Scaler** (PROGRAM ASSOCIATE INTERN)
+
+**Required Skills:** 
+Proficiency in Jira, Zendesk, Google Sheets, and analytical tools
+
+---
+
